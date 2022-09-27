@@ -2940,6 +2940,118 @@
         ]
     },
     {
+        "id": "2472739",
+        "channel": "TVRI Bangka Belitung (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/10c9b2e52562bcef905cb9df3e7968cc.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472742",
+        "channel": "TVRI Bangka Belitung (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/da338a4761c63da08387a52dc8c2f3e9.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472751",
+        "channel": "TVRI Bengkulu (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/081fa410e3c94106bcfa52020ac2d7bb.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472754",
+        "channel": "TVRI Bengkulu (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/4bda9fd3fe725170bf1127ec0f44b296.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472759",
+        "channel": "TVRI DKI Jakarta (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/1fc55ba45901d85f408521d6bba5b925.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472762",
+        "channel": "TVRI Gorontalo (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/70654eb7ebd36c94e05c7d31082bca97.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472768",
+        "channel": "TVRI Gorontalo (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/133d6b6da1a6a085b2bf8b1791133c03.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472784",
+        "channel": "TVRI Jambi (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/b57eac5a287a39954545787572642a2e.m3u8",
+        "country": "indonesia",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628221",
         "channel": "3ABN Latino (720p)",
         "link": "https://list.iptvcat.com/my_list/s/829940bb7f4053ebc08f0790067b31f9.m3u8",
@@ -2951,6 +3063,20 @@
         "mbps": "1783, ...",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472788",
+        "channel": "TVRI Jambi (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/3fea660b8773b63008bd0eed29953356.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -2985,6 +3111,20 @@
         ]
     },
     {
+        "id": "22172",
+        "channel": "TVRI Jawa Barat",
+        "link": "https://list.iptvcat.com/my_list/s/fca82d0697e769cab95e49b58cbf61af.m3u8",
+        "country": "indonesia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628243",
         "channel": "ABN Aramaic Broadcasting Network (540p)",
         "link": "https://list.iptvcat.com/my_list/s/25cf231a10ed4cd24df8d9d83da36ebd.m3u8",
@@ -2996,6 +3136,20 @@
         "mbps": "1783",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472792",
+        "channel": "TVRI Jawa Barat (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/4c930809ba031215f84a57247c1559bd.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3015,6 +3169,20 @@
         ]
     },
     {
+        "id": "22173",
+        "channel": "TVRI Jawa Tengah",
+        "link": "https://list.iptvcat.com/my_list/s/14ec15fa5cf1fa938697fcb63574ad8f.m3u8",
+        "country": "indonesia",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2472653",
         "channel": "ANTV (720p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/739dc71566cb54cc9202a6648a32e455.m3u8",
@@ -3026,6 +3194,20 @@
         "mbps": "1052",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472799",
+        "channel": "TVRI Jawa Tengah (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/b231478fb7265ce89202e67ff4d2530a.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3045,6 +3227,20 @@
         ]
     },
     {
+        "id": "2472805",
+        "channel": "TVRI Jawa Tengah (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/bd241df3eff53b5e64d24c2eb7a0522c.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628246",
         "channel": "Access Humboldt (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/77e32467bdf02d8dfc6384b04ced6722.m3u8",
@@ -3056,6 +3252,34 @@
         "mbps": "8370",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "22174",
+        "channel": "TVRI Jawa Timur",
+        "link": "https://list.iptvcat.com/my_list/s/f470e433a85383fd55720046f57b2da9.m3u8",
+        "country": "indonesia",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472809",
+        "channel": "TVRI Jawa Timur (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/db8bbe5fad195de327d468ebaf003586.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3075,6 +3299,34 @@
         ]
     },
     {
+        "id": "2472815",
+        "channel": "TVRI Kalimantan Barat (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/bd7e91303e5cb688db6f5ec8e2c61f48.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472821",
+        "channel": "TVRI Kalimantan Barat (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/d9c0eeb9eadc421ec95c98eca8fbf184.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2597827",
         "channel": "Africanews",
         "link": "https://list.iptvcat.com/my_list/s/32bceaeb2f02b5ee49462dca95264dbb.m3u8",
@@ -3086,6 +3338,20 @@
         "mbps": "2334",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472824",
+        "channel": "TVRI Kalimantan Selatan (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/9aa9ba2a1d8f641815ce058d8db03462.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3105,6 +3371,20 @@
         ]
     },
     {
+        "id": "2472828",
+        "channel": "TVRI Kalimantan Tengah (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/be58e2d0c58de7d9fe2ace4377ba8a46.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2627737",
         "channel": "Agro TV (Apurimac) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/d33ba6aa86a70344faafce780f813ea3.m3u8",
@@ -3116,6 +3396,20 @@
         "mbps": "4318",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472833",
+        "channel": "TVRI Kalimantan Timur (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/d4f577b49e9c39c8f2295c4b1ccc1d45.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3150,6 +3444,20 @@
         ]
     },
     {
+        "id": "2472839",
+        "channel": "TVRI Kalimantan Timur (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/8b9487d14a6f4ff3f4696aa5ee109672.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628296",
         "channel": "Akaku 55 (Hawaii) (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/226fc9897c70b57b4bf28be9bcfa363b.m3u8",
@@ -3161,6 +3469,20 @@
         "mbps": "5991",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472843",
+        "channel": "TVRI Lampung (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/0fbcc752cd5d13eb4e88b2561cef653a.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3180,6 +3502,34 @@
         ]
     },
     {
+        "id": "2472846",
+        "channel": "TVRI Lampung (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/8de8124f386b0290bc35b415638ebff9.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472852",
+        "channel": "TVRI Maluku (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/14946fc90f671100ec050f25170c61d9.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628332",
         "channel": "Al-MahdiTV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/3d0ce2c710c70a5d31a5743d04cadacc.m3u8",
@@ -3191,6 +3541,20 @@
         "mbps": "8370",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472855",
+        "channel": "TVRI Maluku (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/6cac1c959bccb91f649d84711b81d347.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3210,6 +3574,20 @@
         ]
     },
     {
+        "id": "22175",
+        "channel": "TVRI Nasional",
+        "link": "https://list.iptvcat.com/my_list/s/0a58fdbefdba9fac65c88ddf2c57fcd5.m3u8",
+        "country": "indonesia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628357",
         "channel": "América TeVé (WJAN-CD1) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/d3f6271248fb7acabd3fea72347f5d14.m3u8",
@@ -3221,6 +3599,20 @@
         "mbps": "3795",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472857",
+        "channel": "TVRI Nasional (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/36f00cb59857213ff2c754a8a5e59685.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "259",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3240,6 +3632,20 @@
         ]
     },
     {
+        "id": "2472863",
+        "channel": "TVRI Nusa Tenggara Barat (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/400638f9f60b4209504689cb8b1d3af8.m3u8",
+        "country": "indonesia",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2589410",
         "channel": "Asharq (Portrait) (1280p)",
         "link": "https://list.iptvcat.com/my_list/s/6ec04286398d07faefc65bd4bf49eb53.m3u8",
@@ -3251,6 +3657,48 @@
         "mbps": "5020, ...",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472865",
+        "channel": "TVRI Nusa Tenggara Barat (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/9daa2c3e579723f78cda0318db7070d5.m3u8",
+        "country": "indonesia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472869",
+        "channel": "TVRI Nusa Tenggara Timur (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/cd8ac34930025cc1c13bdf9e819cafd3.m3u8",
+        "country": "indonesia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472872",
+        "channel": "TVRI Nusa Tenggara Timur (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/5e1a0ff0ac8145250cd86188c01443a2.m3u8",
+        "country": "indonesia",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3270,6 +3718,20 @@
         ]
     },
     {
+        "id": "2472874",
+        "channel": "TVRI Papua (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/98b7689aa25939dec56a598a7bd5a425.m3u8",
+        "country": "indonesia",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628399",
         "channel": "Ayeneh TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/956e192c504fca99bb759f36d3db313c.m3u8",
@@ -3281,6 +3743,20 @@
         "mbps": "4318",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472876",
+        "channel": "TVRI Papua (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/e68314e82e9834402b7e82129355665b.m3u8",
+        "country": "indonesia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "626",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3300,6 +3776,20 @@
         ]
     },
     {
+        "id": "2472881",
+        "channel": "TVRI Riau (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/ff335746e2c2e06fda3af15632ad339f.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2614255",
         "channel": "BBC Arabic (720p)",
         "link": "https://list.iptvcat.com/my_list/s/31bd85f0b288283e9dfea3940d658915.m3u8",
@@ -3311,6 +3801,20 @@
         "mbps": "450",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472884",
+        "channel": "TVRI Riau (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/28e48e9719b969ecf72f05b4113f4dc2.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3330,6 +3834,20 @@
         ]
     },
     {
+        "id": "2472886",
+        "channel": "TVRI Sport HD (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/d772fe82adec55951a269db14c9be6d7.m3u8",
+        "country": "indonesia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628485",
         "channel": "BEK TV Sports West (720p)",
         "link": "https://list.iptvcat.com/my_list/s/200b7cd3eb77678aee265ef5d415cb5b.m3u8",
@@ -3341,6 +3859,20 @@
         "mbps": "5991, ...",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472890",
+        "channel": "TVRI Sulawesi Barat (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/63ce39570fbbb1d75576aaf70cdf1def.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3360,6 +3892,34 @@
         ]
     },
     {
+        "id": "2472894",
+        "channel": "TVRI Sulawesi Barat (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/33da013cc1ea20089d73185f8993869a.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472897",
+        "channel": "TVRI Sulawesi Selatan (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/76c42121b0b3a808bee6f1f46c6222ec.m3u8",
+        "country": "indonesia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "24636",
         "channel": "BeritaSatu",
         "link": "https://list.iptvcat.com/my_list/s/2c6e8a7cd76ff64f1e0fc7883bf6569a.m3u8",
@@ -3371,6 +3931,20 @@
         "mbps": "3625",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472902",
+        "channel": "TVRI Sulawesi Selatan (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/9bde648b8042a559561e96e62ae9ef49.m3u8",
+        "country": "indonesia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3435,6 +4009,34 @@
         ]
     },
     {
+        "id": "2472909",
+        "channel": "TVRI Sulawesi Tengah (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/64698f30384bf6383c0f33b9a56bd938.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472913",
+        "channel": "TVRI Sulawesi Tengah (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/6072b9869daba3424bc8248ec9799253.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2597916",
         "channel": "BilliardTV",
         "link": "https://list.iptvcat.com/my_list/s/d155d0aa15966cb93a21e2aecbb7f273.m3u8",
@@ -3450,6 +4052,20 @@
         ]
     },
     {
+        "id": "2472914",
+        "channel": "TVRI Sulawesi Tenggara (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/e22300928faeb819d36cef71f34f0850.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2597940",
         "channel": "Bloomberg",
         "link": "https://list.iptvcat.com/my_list/s/44184fa738e644cab448538296501dfd.m3u8",
@@ -3461,6 +4077,20 @@
         "mbps": "2334",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472917",
+        "channel": "TVRI Sulawesi Tenggara (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/e65a889e0aca1b21729b1d30fba39e93.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3495,6 +4125,20 @@
         ]
     },
     {
+        "id": "2472920",
+        "channel": "TVRI Sulawesi Utara (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/323e77facb4a7776863cb55fae7a2e2c.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2597494",
         "channel": "Bloomberg TV Asia Live Event (720p)",
         "link": "https://list.iptvcat.com/my_list/s/7f283a53bf68636e1d59b837ba754b7f.m3u8",
@@ -3506,6 +4150,20 @@
         "mbps": "3799, ...",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472922",
+        "channel": "TVRI Sulawesi Utara (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/6a973e59cb3cbbfca5d9458a8172955f.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3525,6 +4183,20 @@
         ]
     },
     {
+        "id": "2472927",
+        "channel": "TVRI Sumatera Barat (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/7f914f0fc3e4d8e7d39d25330e7a26ce.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2597498",
         "channel": "Bloomberg TV EMEA Live Event (720p)",
         "link": "https://list.iptvcat.com/my_list/s/52f4644dc84f4d18460bbecedc735db1.m3u8",
@@ -3536,6 +4208,20 @@
         "mbps": "3799, ...",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472933",
+        "channel": "TVRI Sumatera Selatan (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/7fee315eb60039d46b60be80694b5b3d.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3555,6 +4241,34 @@
         ]
     },
     {
+        "id": "2472935",
+        "channel": "TVRI Sumatera Selatan (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/d70c8d485c06958c09bbb1d3b7567850.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472940",
+        "channel": "TVRI Sumatera Utara (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/88eb851b5d1015448c7e819665bc43d9.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2598541",
         "channel": "Bloomberg TV US Live Event (720p)",
         "link": "https://list.iptvcat.com/my_list/s/3bb7810b788ce7c00dc73b5b4ef38c9b.m3u8",
@@ -3566,6 +4280,20 @@
         "mbps": "3795, ...",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472945",
+        "channel": "TVRI Sumatera Utara (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/24e35ada935df08510f1cbacb9004625.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1444, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3585,6 +4313,20 @@
         ]
     },
     {
+        "id": "2472949",
+        "channel": "TVRI World (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/d174082a1448b5e73f3f91f6f9cd906c.m3u8",
+        "country": "indonesia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2627916",
         "channel": "Bloomberg TV+",
         "link": "https://list.iptvcat.com/my_list/s/e67c5da96586a4d086278f4eab8c031c.m3u8",
@@ -3596,6 +4338,20 @@
         "mbps": "52835, ...",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472951",
+        "channel": "TVRI World (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/d7be39daefe15cea10f3efa9b7193221.m3u8",
+        "country": "indonesia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3615,6 +4371,34 @@
         ]
     },
     {
+        "id": "22176",
+        "channel": "TVRI Yogyakarta",
+        "link": "https://list.iptvcat.com/my_list/s/0d47706a9a9cd962c1b0ecfd86a2a921.m3u8",
+        "country": "indonesia",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472957",
+        "channel": "TVRI Yogyakarta (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/4ab39fbf5f86b5a586a91aa510f38c17.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628508",
         "channel": "Bluegrass Music 4U (480p)",
         "link": "https://list.iptvcat.com/my_list/s/948a3ff85287ae0ea21f76cd2a4339fd.m3u8",
@@ -3626,6 +4410,20 @@
         "mbps": "1704",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472962",
+        "channel": "TVRI Yogyakarta (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/2a05bea5cb706439b2dd8b9383dde95b.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3645,6 +4443,20 @@
         ]
     },
     {
+        "id": "2628096",
+        "channel": "Tastemade",
+        "link": "https://list.iptvcat.com/my_list/s/22561ff91599a4195029eb66483756e1.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "13324, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2598000",
         "channel": "BollywoodHD",
         "link": "https://list.iptvcat.com/my_list/s/46d8af5a119b94d92adcfb8c60eeab60.m3u8",
@@ -3656,6 +4468,20 @@
         "mbps": "2334",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2597720",
+        "channel": "Televisión Tarapoto (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/3ec159a9cbb569e8f7ce2414f9f3cf1f.m3u8",
+        "country": "indonesia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3675,6 +4501,20 @@
         ]
     },
     {
+        "id": "2629130",
+        "channel": "Temecula TV (Temecula CA) (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/030d0ed61d6f7b3fdb6dece4cafe383c.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "13324, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628574",
         "channel": "CAPS Media Channel 15 (Ventura CA) (480p)",
         "link": "https://list.iptvcat.com/my_list/s/0b5216168f9b73832f91379f2c1ae1bd.m3u8",
@@ -3686,6 +4526,20 @@
         "mbps": "2088, ...",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2628107",
+        "channel": "The Pet Collective International",
+        "link": "https://list.iptvcat.com/my_list/s/507966d77bd1f762d9c31ddb0ab21e5f.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3705,6 +4559,20 @@
         ]
     },
     {
+        "id": "2598382",
+        "channel": "TimesNavbharat",
+        "link": "https://list.iptvcat.com/my_list/s/63df948e0cabafcae8fbc5902fdd17a9.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628597",
         "channel": "CFN Catholic Faith Network (720p)",
         "link": "https://list.iptvcat.com/my_list/s/79816c9c34144a93048b986308f0bf2a.m3u8",
@@ -3716,6 +4584,20 @@
         "mbps": "3795",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2597663",
+        "channel": "Top Latino TV (404p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/6484c2466d034a3eebafafbb48710481.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1291",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3735,6 +4617,20 @@
         ]
     },
     {
+        "id": "2629154",
+        "channel": "Torrance CitiCABLE (Torrance CA) (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/eb8a78076426dfecf3a441e910115812.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "920",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2517",
         "channel": "Channel NewsAsia, CNA HD",
         "link": "https://list.iptvcat.com/my_list/s/a7e05eef940fb656407c55a172e6b861.m3u8",
@@ -3746,6 +4642,20 @@
         "mbps": "11126",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2598405",
+        "channel": "TraceBrazuka",
+        "link": "https://list.iptvcat.com/my_list/s/533de98ba49814ec2bf3447357b090fb.m3u8",
+        "country": "indonesia",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3765,6 +4675,20 @@
         ]
     },
     {
+        "id": "2598417",
+        "channel": "TraceLatina",
+        "link": "https://list.iptvcat.com/my_list/s/094320c444c21324293b626954e3aaa2.m3u8",
+        "country": "indonesia",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "1278",
         "channel": "CNBC Indonesia",
         "link": "https://list.iptvcat.com/my_list/s/4c9437386126d4c8e905a9132a0401eb.m3u8",
@@ -3776,6 +4700,20 @@
         "mbps": "3625, ...",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2598429",
+        "channel": "TraceUrbanasia",
+        "link": "https://list.iptvcat.com/my_list/s/7ef9252f94bbe310233887a5a66bee51.m3u8",
+        "country": "indonesia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3795,6 +4733,34 @@
         ]
     },
     {
+        "id": "2629178",
+        "channel": "Tracy Education and Governmental Access Channel (Tracy CA) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/6f602a14579249f411321d8b76d9ae63.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2628117",
+        "channel": "Travelxp",
+        "link": "https://list.iptvcat.com/my_list/s/99ac8aa81d375250c31e1ec78f6e74fd.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "13751",
         "channel": "CNBC Indonesia 1",
         "link": "https://list.iptvcat.com/my_list/s/0099948caf5b70f3e1ec9e879b06249a.m3u8",
@@ -3806,6 +4772,20 @@
         "mbps": "3625",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2629202",
+        "channel": "True History (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/8b97fffe692f9ca9d86e9fe3b903d5f9.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3825,6 +4805,20 @@
         ]
     },
     {
+        "id": "2598460",
+        "channel": "TwistedMirror",
+        "link": "https://list.iptvcat.com/my_list/s/61c56d4049ed1907fcf8e991e2929c23.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628691",
         "channel": "CTN Lifestyle (480p)",
         "link": "https://list.iptvcat.com/my_list/s/b95039941521e54c8813f2e996943479.m3u8",
@@ -3836,6 +4830,20 @@
         "mbps": "2331",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2598471",
+        "channel": "Unreel",
+        "link": "https://list.iptvcat.com/my_list/s/72f5b00bfd377b3a43dc1c370f50469d.m3u8",
+        "country": "indonesia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3855,6 +4863,20 @@
         ]
     },
     {
+        "id": "2629225",
+        "channel": "Vacaville Channel 26 (Vacaville CA) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/24138eebe92bbc1a2c7f278bd236e0d9.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2589255",
         "channel": "Canal del Congreso 45.1",
         "link": "https://list.iptvcat.com/my_list/s/13251a4131d6ddac902f47ad452241ba.m3u8",
@@ -3866,6 +4888,20 @@
         "mbps": "754",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2629249",
+        "channel": "Vallejo Community Access Television (V-CAT) (Vallejo CA) (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/ea8f08db63b66d3b660153710b42ca71.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2088, ...",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3885,6 +4921,20 @@
         ]
     },
     {
+        "id": "2598473",
+        "channel": "VoxAfrica",
+        "link": "https://list.iptvcat.com/my_list/s/ca9bcd6897cc079942a850af5fba9d4d.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2589267",
         "channel": "Canal del Congreso 45.3",
         "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
@@ -3896,6 +4946,34 @@
         "mbps": "9546, ...",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2598490",
+        "channel": "WBC",
+        "link": "https://list.iptvcat.com/my_list/s/0c0d0808e33d7d09967983e099949c71.m3u8",
+        "country": "indonesia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2629367",
+        "channel": "WPS TV (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/ad7c6debab9113de960e3affe42a617a.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1600",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3915,6 +4993,20 @@
         ]
     },
     {
+        "id": "2628131",
+        "channel": "Waterbear",
+        "link": "https://list.iptvcat.com/my_list/s/232563c12aaa87e95ba109f574f2e628.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628643",
         "channel": "Charlotte County CC-TV (Charlotte County FA) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/861bd998d6e5207e8138b2c9d3a045cf.m3u8",
@@ -3926,6 +5018,20 @@
         "mbps": "4318",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2629273",
+        "channel": "West Hollywood WeHoTV (West Hollywood CA) (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/a8410ce1e199a9c84ac7a7af7b7467de.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1181",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3960,6 +5066,20 @@
         ]
     },
     {
+        "id": "2629297",
+        "channel": "Westlake Village WVTV Channel 10 (Westlake Village CA) (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/9cafcd8d3985d61b5a21d760c6f1c5ef.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "920",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628690",
         "channel": "CityTV Santa Barbara (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/cf4a84dadecbb47992b2afbfb6bca29e.m3u8",
@@ -3971,6 +5091,34 @@
         "mbps": "219",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2629322",
+        "channel": "Westminster WTV Channel (Westminster CA) (p)",
+        "link": "https://list.iptvcat.com/my_list/s/1e40af2006b719e7eb98f889ef632d19.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1181",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2629346",
+        "channel": "Whittier CityTV (Whittier CA) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/3a94f39417e5e6353e8094d414c80df5.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
             "indonesia"
         ]
     },
@@ -3990,6 +5138,20 @@
         ]
     },
     {
+        "id": "2628143",
+        "channel": "World Poker Tour",
+        "link": "https://list.iptvcat.com/my_list/s/b81e310d867bbf77929b58dd26f01db0.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2598037",
         "channel": "CurrentTime",
         "link": "https://list.iptvcat.com/my_list/s/15f831a572accad10c887a22e9a9a540.m3u8",
@@ -4001,6 +5163,20 @@
         "mbps": "1357",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2598529",
+        "channel": "Zoom",
+        "link": "https://list.iptvcat.com/my_list/s/8caf638da355b68a39b46c7acb21c8c0.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
             "indonesia"
         ]
     },
@@ -4020,6 +5196,20 @@
         ]
     },
     {
+        "id": "1336235",
+        "channel": "iNews",
+        "link": "https://list.iptvcat.com/my_list/s/c611ef07f5eaeec44bb059c9d6bd9b64.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628730",
         "channel": "DeFiance Media (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/75cada372bf64322a0fb436945f1f3f5.m3u8",
@@ -4031,6 +5221,20 @@
         "mbps": "8370, ...",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2472971",
+        "channel": "iNews (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/df6ae87b6b874ad23b9f75aee4c6a21a.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
             "indonesia"
         ]
     },
@@ -4050,6 +5254,20 @@
         ]
     },
     {
+        "id": "2614551",
+        "channel": "Три Ангела (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/4fd522d0e40d945e3d75ffa1c49b8f24.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2628740",
         "channel": "Denver 8 TV (Denver CO) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/7444fb2596dd4a63b987e021c9848be2.m3u8",
@@ -4061,6 +5279,20 @@
         "mbps": "4318",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2614350",
+        "channel": "有線新聞台 i-Cable 24-hour News Channel (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/90fd7222a21c1b982bfc59d27734d59b.m3u8",
+        "country": "indonesia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
             "indonesia"
         ]
     },
@@ -4080,6 +5312,34 @@
         ]
     },
     {
+        "id": "2614272",
+        "channel": "滁州市广播电视台 公共频道 (400p)",
+        "link": "https://list.iptvcat.com/my_list/s/28ae921c61df20bf54c856fa75b079b1.m3u8",
+        "country": "indonesia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1662",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2614283",
+        "channel": "滁州市广播电视台 新闻综合频道 (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/331959e17c3d4440721d9371e3a7589a.m3u8",
+        "country": "indonesia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "indonesia"
+        ]
+    },
+    {
         "id": "2598052",
         "channel": "DuckTV",
         "link": "https://list.iptvcat.com/my_list/s/390324631179c855b91f0f81779a2eef.m3u8",
@@ -4091,6 +5351,20 @@
         "mbps": "2334",
         "URI": [
             "indonesia_-_-_-_-_-_-_-",
+            "indonesia"
+        ]
+    },
+    {
+        "id": "2614293",
+        "channel": "滁州市广播电视台 科教频道 (400p)",
+        "link": "https://list.iptvcat.com/my_list/s/083d1de35ca5e5c5175af181cdf11800.m3u8",
+        "country": "indonesia",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1662",
+        "URI": [
             "indonesia"
         ]
     },
@@ -5735,1280 +7009,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472739",
-        "channel": "TVRI Bangka Belitung (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/10c9b2e52562bcef905cb9df3e7968cc.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472742",
-        "channel": "TVRI Bangka Belitung (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/da338a4761c63da08387a52dc8c2f3e9.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472751",
-        "channel": "TVRI Bengkulu (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/081fa410e3c94106bcfa52020ac2d7bb.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472754",
-        "channel": "TVRI Bengkulu (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/4bda9fd3fe725170bf1127ec0f44b296.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472759",
-        "channel": "TVRI DKI Jakarta (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/1fc55ba45901d85f408521d6bba5b925.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472762",
-        "channel": "TVRI Gorontalo (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/70654eb7ebd36c94e05c7d31082bca97.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472768",
-        "channel": "TVRI Gorontalo (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/133d6b6da1a6a085b2bf8b1791133c03.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472784",
-        "channel": "TVRI Jambi (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/b57eac5a287a39954545787572642a2e.m3u8",
-        "country": "indonesia",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472788",
-        "channel": "TVRI Jambi (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/3fea660b8773b63008bd0eed29953356.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "22172",
-        "channel": "TVRI Jawa Barat",
-        "link": "https://list.iptvcat.com/my_list/s/fca82d0697e769cab95e49b58cbf61af.m3u8",
-        "country": "indonesia",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472792",
-        "channel": "TVRI Jawa Barat (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/4c930809ba031215f84a57247c1559bd.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "22173",
-        "channel": "TVRI Jawa Tengah",
-        "link": "https://list.iptvcat.com/my_list/s/14ec15fa5cf1fa938697fcb63574ad8f.m3u8",
-        "country": "indonesia",
-        "liveliness": "91",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472799",
-        "channel": "TVRI Jawa Tengah (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/b231478fb7265ce89202e67ff4d2530a.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472805",
-        "channel": "TVRI Jawa Tengah (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/bd241df3eff53b5e64d24c2eb7a0522c.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "22174",
-        "channel": "TVRI Jawa Timur",
-        "link": "https://list.iptvcat.com/my_list/s/f470e433a85383fd55720046f57b2da9.m3u8",
-        "country": "indonesia",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472809",
-        "channel": "TVRI Jawa Timur (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/db8bbe5fad195de327d468ebaf003586.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472815",
-        "channel": "TVRI Kalimantan Barat (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/bd7e91303e5cb688db6f5ec8e2c61f48.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472821",
-        "channel": "TVRI Kalimantan Barat (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/d9c0eeb9eadc421ec95c98eca8fbf184.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472824",
-        "channel": "TVRI Kalimantan Selatan (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/9aa9ba2a1d8f641815ce058d8db03462.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472828",
-        "channel": "TVRI Kalimantan Tengah (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/be58e2d0c58de7d9fe2ace4377ba8a46.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472833",
-        "channel": "TVRI Kalimantan Timur (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/d4f577b49e9c39c8f2295c4b1ccc1d45.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472839",
-        "channel": "TVRI Kalimantan Timur (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/8b9487d14a6f4ff3f4696aa5ee109672.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472843",
-        "channel": "TVRI Lampung (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/0fbcc752cd5d13eb4e88b2561cef653a.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472846",
-        "channel": "TVRI Lampung (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/8de8124f386b0290bc35b415638ebff9.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472852",
-        "channel": "TVRI Maluku (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/14946fc90f671100ec050f25170c61d9.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472855",
-        "channel": "TVRI Maluku (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/6cac1c959bccb91f649d84711b81d347.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "22175",
-        "channel": "TVRI Nasional",
-        "link": "https://list.iptvcat.com/my_list/s/0a58fdbefdba9fac65c88ddf2c57fcd5.m3u8",
-        "country": "indonesia",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472857",
-        "channel": "TVRI Nasional (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/36f00cb59857213ff2c754a8a5e59685.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "259",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472863",
-        "channel": "TVRI Nusa Tenggara Barat (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/400638f9f60b4209504689cb8b1d3af8.m3u8",
-        "country": "indonesia",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472865",
-        "channel": "TVRI Nusa Tenggara Barat (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/9daa2c3e579723f78cda0318db7070d5.m3u8",
-        "country": "indonesia",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472869",
-        "channel": "TVRI Nusa Tenggara Timur (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/cd8ac34930025cc1c13bdf9e819cafd3.m3u8",
-        "country": "indonesia",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472872",
-        "channel": "TVRI Nusa Tenggara Timur (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/5e1a0ff0ac8145250cd86188c01443a2.m3u8",
-        "country": "indonesia",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472874",
-        "channel": "TVRI Papua (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/98b7689aa25939dec56a598a7bd5a425.m3u8",
-        "country": "indonesia",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472876",
-        "channel": "TVRI Papua (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/e68314e82e9834402b7e82129355665b.m3u8",
-        "country": "indonesia",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "626",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472881",
-        "channel": "TVRI Riau (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/ff335746e2c2e06fda3af15632ad339f.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472884",
-        "channel": "TVRI Riau (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/28e48e9719b969ecf72f05b4113f4dc2.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472886",
-        "channel": "TVRI Sport HD (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/d772fe82adec55951a269db14c9be6d7.m3u8",
-        "country": "indonesia",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472890",
-        "channel": "TVRI Sulawesi Barat (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/63ce39570fbbb1d75576aaf70cdf1def.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472894",
-        "channel": "TVRI Sulawesi Barat (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/33da013cc1ea20089d73185f8993869a.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472897",
-        "channel": "TVRI Sulawesi Selatan (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/76c42121b0b3a808bee6f1f46c6222ec.m3u8",
-        "country": "indonesia",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472902",
-        "channel": "TVRI Sulawesi Selatan (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/9bde648b8042a559561e96e62ae9ef49.m3u8",
-        "country": "indonesia",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472909",
-        "channel": "TVRI Sulawesi Tengah (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/64698f30384bf6383c0f33b9a56bd938.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472913",
-        "channel": "TVRI Sulawesi Tengah (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/6072b9869daba3424bc8248ec9799253.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472914",
-        "channel": "TVRI Sulawesi Tenggara (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/e22300928faeb819d36cef71f34f0850.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472917",
-        "channel": "TVRI Sulawesi Tenggara (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/e65a889e0aca1b21729b1d30fba39e93.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472920",
-        "channel": "TVRI Sulawesi Utara (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/323e77facb4a7776863cb55fae7a2e2c.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472922",
-        "channel": "TVRI Sulawesi Utara (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/6a973e59cb3cbbfca5d9458a8172955f.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472927",
-        "channel": "TVRI Sumatera Barat (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/7f914f0fc3e4d8e7d39d25330e7a26ce.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472933",
-        "channel": "TVRI Sumatera Selatan (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/7fee315eb60039d46b60be80694b5b3d.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472935",
-        "channel": "TVRI Sumatera Selatan (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/d70c8d485c06958c09bbb1d3b7567850.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472940",
-        "channel": "TVRI Sumatera Utara (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/88eb851b5d1015448c7e819665bc43d9.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472945",
-        "channel": "TVRI Sumatera Utara (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/24e35ada935df08510f1cbacb9004625.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1444, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472949",
-        "channel": "TVRI World (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/d174082a1448b5e73f3f91f6f9cd906c.m3u8",
-        "country": "indonesia",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472951",
-        "channel": "TVRI World (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/d7be39daefe15cea10f3efa9b7193221.m3u8",
-        "country": "indonesia",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "22176",
-        "channel": "TVRI Yogyakarta",
-        "link": "https://list.iptvcat.com/my_list/s/0d47706a9a9cd962c1b0ecfd86a2a921.m3u8",
-        "country": "indonesia",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472957",
-        "channel": "TVRI Yogyakarta (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/4ab39fbf5f86b5a586a91aa510f38c17.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472962",
-        "channel": "TVRI Yogyakarta (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/2a05bea5cb706439b2dd8b9383dde95b.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2628096",
-        "channel": "Tastemade",
-        "link": "https://list.iptvcat.com/my_list/s/22561ff91599a4195029eb66483756e1.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "13324, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2597720",
-        "channel": "Televisión Tarapoto (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/3ec159a9cbb569e8f7ce2414f9f3cf1f.m3u8",
-        "country": "indonesia",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2629130",
-        "channel": "Temecula TV (Temecula CA) (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/030d0ed61d6f7b3fdb6dece4cafe383c.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "13324, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2628107",
-        "channel": "The Pet Collective International",
-        "link": "https://list.iptvcat.com/my_list/s/507966d77bd1f762d9c31ddb0ab21e5f.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2598382",
-        "channel": "TimesNavbharat",
-        "link": "https://list.iptvcat.com/my_list/s/63df948e0cabafcae8fbc5902fdd17a9.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2597663",
-        "channel": "Top Latino TV (404p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/6484c2466d034a3eebafafbb48710481.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1291",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2629154",
-        "channel": "Torrance CitiCABLE (Torrance CA) (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/eb8a78076426dfecf3a441e910115812.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "920",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2598405",
-        "channel": "TraceBrazuka",
-        "link": "https://list.iptvcat.com/my_list/s/533de98ba49814ec2bf3447357b090fb.m3u8",
-        "country": "indonesia",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2598417",
-        "channel": "TraceLatina",
-        "link": "https://list.iptvcat.com/my_list/s/094320c444c21324293b626954e3aaa2.m3u8",
-        "country": "indonesia",
-        "liveliness": "89",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2598429",
-        "channel": "TraceUrbanasia",
-        "link": "https://list.iptvcat.com/my_list/s/7ef9252f94bbe310233887a5a66bee51.m3u8",
-        "country": "indonesia",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2629178",
-        "channel": "Tracy Education and Governmental Access Channel (Tracy CA) (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/6f602a14579249f411321d8b76d9ae63.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2628117",
-        "channel": "Travelxp",
-        "link": "https://list.iptvcat.com/my_list/s/99ac8aa81d375250c31e1ec78f6e74fd.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2629202",
-        "channel": "True History (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/8b97fffe692f9ca9d86e9fe3b903d5f9.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2598460",
-        "channel": "TwistedMirror",
-        "link": "https://list.iptvcat.com/my_list/s/61c56d4049ed1907fcf8e991e2929c23.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2598471",
-        "channel": "Unreel",
-        "link": "https://list.iptvcat.com/my_list/s/72f5b00bfd377b3a43dc1c370f50469d.m3u8",
-        "country": "indonesia",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2629225",
-        "channel": "Vacaville Channel 26 (Vacaville CA) (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/24138eebe92bbc1a2c7f278bd236e0d9.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2629249",
-        "channel": "Vallejo Community Access Television (V-CAT) (Vallejo CA) (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/ea8f08db63b66d3b660153710b42ca71.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2088, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2598473",
-        "channel": "VoxAfrica",
-        "link": "https://list.iptvcat.com/my_list/s/ca9bcd6897cc079942a850af5fba9d4d.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2598490",
-        "channel": "WBC",
-        "link": "https://list.iptvcat.com/my_list/s/0c0d0808e33d7d09967983e099949c71.m3u8",
-        "country": "indonesia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2629367",
-        "channel": "WPS TV (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/ad7c6debab9113de960e3affe42a617a.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1600",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2628131",
-        "channel": "Waterbear",
-        "link": "https://list.iptvcat.com/my_list/s/232563c12aaa87e95ba109f574f2e628.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "11126, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2629273",
-        "channel": "West Hollywood WeHoTV (West Hollywood CA) (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/a8410ce1e199a9c84ac7a7af7b7467de.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1181",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2629297",
-        "channel": "Westlake Village WVTV Channel 10 (Westlake Village CA) (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/9cafcd8d3985d61b5a21d760c6f1c5ef.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "920",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2629322",
-        "channel": "Westminster WTV Channel (Westminster CA) (p)",
-        "link": "https://list.iptvcat.com/my_list/s/1e40af2006b719e7eb98f889ef632d19.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1181",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2629346",
-        "channel": "Whittier CityTV (Whittier CA) (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/3a94f39417e5e6353e8094d414c80df5.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2628143",
-        "channel": "World Poker Tour",
-        "link": "https://list.iptvcat.com/my_list/s/b81e310d867bbf77929b58dd26f01db0.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2598529",
-        "channel": "Zoom",
-        "link": "https://list.iptvcat.com/my_list/s/8caf638da355b68a39b46c7acb21c8c0.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "1336235",
-        "channel": "iNews",
-        "link": "https://list.iptvcat.com/my_list/s/c611ef07f5eaeec44bb059c9d6bd9b64.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2472971",
-        "channel": "iNews (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/df6ae87b6b874ad23b9f75aee4c6a21a.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2614551",
-        "channel": "Три Ангела (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/4fd522d0e40d945e3d75ffa1c49b8f24.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2614350",
-        "channel": "有線新聞台 i-Cable 24-hour News Channel (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/90fd7222a21c1b982bfc59d27734d59b.m3u8",
-        "country": "indonesia",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2614272",
-        "channel": "滁州市广播电视台 公共频道 (400p)",
-        "link": "https://list.iptvcat.com/my_list/s/28ae921c61df20bf54c856fa75b079b1.m3u8",
-        "country": "indonesia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1662",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2614283",
-        "channel": "滁州市广播电视台 新闻综合频道 (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/331959e17c3d4440721d9371e3a7589a.m3u8",
-        "country": "indonesia",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "indonesia"
-        ]
-    },
-    {
-        "id": "2614293",
-        "channel": "滁州市广播电视台 科教频道 (400p)",
-        "link": "https://list.iptvcat.com/my_list/s/083d1de35ca5e5c5175af181cdf11800.m3u8",
-        "country": "indonesia",
-        "liveliness": "93",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1662",
         "URI": [
             "indonesia"
         ]
