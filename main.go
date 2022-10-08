@@ -6,12 +6,11 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil"
-	curl "github.com/andelf/go-curl"
+	"net/http"
 	"os"
 	"regexp"
 	"strconv"
 	"strings"
-	"bytes"
 
 	app "iptvcat-scraper/pkg"
 
@@ -22,8 +21,6 @@ const aHref = "a[href]"
 
 func downloadFile(filepath string, url string) (err error) {
 	fmt.Println("downloadFile from ", url, "to ", filepath)
-	easy := curl.EasyInit()
-	defer easy.Cleanup()
 
 	// Create the file
 	out, err := os.Create(filepath)
@@ -31,25 +28,21 @@ func downloadFile(filepath string, url string) (err error) {
 		return err
 	}
 	defer out.Close()
-		
-	easy.Setopt(curl.OPT_URL, url)
-	recv := func (buf []byte, userdata interface{}) bool {
-		// Writer the body to file
-		fmt.Println("Content", string(buf))
-		_, err = io.Copy(out, bytes.NewReader(buf))
-		if err != nil {
-			return false
-		}
-		return true
-    }
-
-	easy.Setopt(curl.OPT_WRITEFUNCTION, recv)
 
 	// Get the data
-    if err := easy.Perform(); err != nil {
-        fmt.Printf("ERROR: %v\n", err)
-    }
+	resp, err := http.newRequest("GET", url, nil)
+	if err != nil {
+		return err
+	}
+	defer resp.Body.Close()
 
+	// Check server response
+	if resp.StatusCode != http.StatusOK {
+		return fmt.Errorf("bad status: %s", resp.Status)
+	}
+
+	// Writer the body to file
+	_, err = io.Copy(out, resp.Body)
 	if err != nil {
 		return err
 	}
@@ -138,7 +131,6 @@ func checkNestedUrls(skipOffline bool) {
 				fmt.Println(err)
 			}
 			stream.M3DU = string(m3du)
-			fmt.Println("M3DU:", stream.M3DU)
 
 			processed++
 
@@ -180,7 +172,7 @@ func writeToFile() {
 		ioutil.WriteFile("data/countries/"+key+".json", streamsCountry, 0644)
 	}
 
-	f, err := os.Create("data/all-streams.m3d8")
+	f, err := os.Create("data/all-streams.m3du")
 	if err != nil {
 		fmt.Println("error opening m3du file:", err)
 	}
