@@ -172,9 +172,9 @@ func writeToFile() {
 		ioutil.WriteFile("data/countries/"+key+".json", streamsCountry, 0644)
 	}
 
-	f, err := os.OpenFile("data/all-streams.m3du", os.O_CREATE, 0644)
+	f, err := os.open("data/all-streams.m3du", os.O_CREATE, 0644)
 	if err != nil {
-		fmt.Printfln("error opening m3du file:", err)
+		fmt.Println("error opening m3du file:", err)
 	}
 
 	for _, stream := range app.Streams.All {
