@@ -3,7 +3,7 @@ import urllib.request
 import json
 from io import BytesIO, StringIO
 
-ALL_STREAMS_JSON_LINK = 'https://github.com/ericziethen/ez-iptvcat-scraper/raw/master/data/all-streams.json'
+ALL_STREAMS_JSON_LINK = 'https://raw.githubusercontent.com/froggyflare/ez-iptvcat-scraper/master/data/all-streams.json'
 M3U_OUTPUT = './data/all-stream.m3u8'
 
 # Download Json Data File
