@@ -181,7 +181,7 @@ func writeToFile() {
 		f.Write([]byte(stream.M3DU))
 	}
 	
-	os.Close(f)
+	f.Close(f)
 }
 
 func processUrl(url string, domain string, skipOffline bool) {
