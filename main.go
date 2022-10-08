@@ -35,6 +35,7 @@ func downloadFile(filepath string, url string) (err error) {
 	easy.Setopt(curl.OPT_URL, url)
 	recv := func (buf []byte, userdata interface{}) bool {
 		// Writer the body to file
+		fmt.Println("Content", string(buf))
 		_, err = io.Copy(out, bytes.NewReader(buf))
 		if err != nil {
 			return false
