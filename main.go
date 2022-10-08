@@ -35,7 +35,7 @@ func downloadFile(filepath string, url string) (err error) {
 	easy.Setopt(curl.OPT_URL, url)
 	resp := ""
 	recv := func (buf []byte, userdata interface{}) bool {
-        resp = string(buf)
+        resp = buf
         return true
     }
 
@@ -49,15 +49,9 @@ func downloadFile(filepath string, url string) (err error) {
 	if err != nil {
 		return err
 	}
-	defer resp.Body.Close()
-
-	// Check server response
-	if resp.StatusCode != http.StatusOK {
-		return fmt.Errorf("bad status: %s", resp.Status)
-	}
 
 	// Writer the body to file
-	_, err = io.Copy(out, resp.Body)
+	_, err = io.Copy(out, resp)
 	if err != nil {
 		return err
 	}
