@@ -33,7 +33,7 @@ func downloadFile(filepath string, url string) (err error) {
 	defer out.Close()
 		
 	easy.Setopt(curl.OPT_URL, url)
-	recv := func (buf []byte, userdata interface{}) bool) {
+	recv := func (buf []byte, userdata interface{}) bool {
 		// Writer the body to file
 		_, err = io.Copy(out, bytes.NewReader(buf))
 		if err != nil {
