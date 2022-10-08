@@ -30,7 +30,7 @@ func downloadFile(filepath string, url string) (err error) {
 	defer out.Close()
 
 	// Get the data
-	resp, err := http.newRequest("GET", url, nil)
+	resp, err := http.NewRequest("GET", url, nil)
 	if err != nil {
 		return err
 	}
