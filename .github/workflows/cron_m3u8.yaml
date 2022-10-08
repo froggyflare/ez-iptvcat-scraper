@@ -23,11 +23,11 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install dependencies
-        run: |
-        apt install -y libcurl4-openssl-dev libssl-dev
-        python -m pip install -r requirements.txt
         shell: bash
-
+        run: |
+          apt install -y libcurl4-openssl-dev libssl-dev
+          python -m pip install -r requirements.txt
+        
       - name: run
         run: python ./generate.py
 
