@@ -39,7 +39,7 @@ func downloadFile(filepath string, url string) (err error) {
         return true
     }
 
-	easy.Setopt(curl.OPT_WRITEFUNCTION, recvMeth)
+	easy.Setopt(curl.OPT_WRITEFUNCTION, recv)
 
 	// Get the data
     if err := easy.Perform(); err != nil {
