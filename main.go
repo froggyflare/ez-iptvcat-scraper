@@ -116,13 +116,6 @@ func checkNestedUrls(skipOffline bool) {
 
 			processed++
 
-			// Delete the file
-			err2 := os.Remove(tmpFile)
-			if err2 != nil {
-				fmt.Println(err2)
-				return
-			}
-
 		} else {
 			fmt.Println("no m3u8 found in link: ", stream.Link)
 		}
