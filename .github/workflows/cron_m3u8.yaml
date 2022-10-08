@@ -1,4 +1,4 @@
-name: Scrape Cron
+name: Scrape Cron M3u8
 
 on:
   workflow_dispatch:
