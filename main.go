@@ -36,11 +36,6 @@ func downloadFile(filepath string, url string) (err error) {
 	}
 	defer resp.Body.Close()
 
-	// Check server response
-	if resp.StatusCode != http.StatusOK {
-		return fmt.Errorf("bad status: %s", resp.Status)
-	}
-
 	// Writer the body to file
 	_, err = io.Copy(out, resp.Body)
 	if err != nil {
