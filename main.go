@@ -137,6 +137,7 @@ func checkNestedUrls(skipOffline bool) {
 				fmt.Println(err)
 			}
 			stream.M3DU = string(m3du)
+			fmt.Println("M3DU:", stream.M3DU)
 
 			processed++
 
