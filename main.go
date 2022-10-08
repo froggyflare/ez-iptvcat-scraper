@@ -30,13 +30,14 @@ func downloadFile(filepath string, url string) (err error) {
 		return err
 	}
 	defer out.Close()
-	
-	var resp = []byte{}
-	
+		
 	easy.Setopt(curl.OPT_URL, url)
 	recv := func (buf []byte, userdata interface{}) bool {
-        resp = buf
-        return true
+		// Writer the body to file
+		_, err = io.Copy(out, buf)
+		if err != nil {
+			return err
+		}
     }
 
 	easy.Setopt(curl.OPT_WRITEFUNCTION, recv)
@@ -46,12 +47,6 @@ func downloadFile(filepath string, url string) (err error) {
         fmt.Printf("ERROR: %v\n", err)
     }
 
-	if err != nil {
-		return err
-	}
-
-	// Writer the body to file
-	_, err = io.Copy(out, resp)
 	if err != nil {
 		return err
 	}
