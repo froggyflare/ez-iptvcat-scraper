@@ -44,6 +44,7 @@ type Stream struct {
 	Format      string   `json:"format"`
 	Mbps        string   `json:"mbps"`
 	URI         []string `json:"URI"`
+	M3DU		string   `json:"m3du"`
 }
 
 type streamsData struct {

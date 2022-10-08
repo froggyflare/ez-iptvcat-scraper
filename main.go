@@ -125,6 +125,13 @@ func checkNestedUrls(skipOffline bool) {
 			stream.Link = newUrl
 			converted_urls[url_lower] = newUrl
 
+			// Add M3du
+			m3du, err := os.ReadFile(tmpFile)
+			if err != nil {
+				fmt.Println(err)
+			}
+			stream.M3DU = string(m3du)
+
 			processed++
 
 			// Delete the file
@@ -164,6 +171,17 @@ func writeToFile() {
 		}
 		ioutil.WriteFile("data/countries/"+key+".json", streamsCountry, 0644)
 	}
+
+	f, err := os.OpenFile("data/all-streams.m3du", os.O_CREATE, 0644)
+	if err != nil {
+		fmt.Printfln("error opening m3du file:", err)
+	}
+
+	for _, stream := range app.Streams.All {
+		os.write(f, stream.M3DU)
+	}
+	
+	os.Close(f)
 }
 
 func processUrl(url string, domain string, skipOffline bool) {
