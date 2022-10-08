@@ -7,6 +7,7 @@ import (
 	"io"
 	"io/ioutil"
 	"net/http"
+	curl "github.com/andelf/go-curl"
 	"os"
 	"regexp"
 	"strconv"
@@ -21,6 +22,8 @@ const aHref = "a[href]"
 
 func downloadFile(filepath string, url string) (err error) {
 	fmt.Println("downloadFile from ", url, "to ", filepath)
+	easy := curl.EasyInit()
+	defer easy.Cleanup()
 
 	// Create the file
 	out, err := os.Create(filepath)
@@ -29,8 +32,20 @@ func downloadFile(filepath string, url string) (err error) {
 	}
 	defer out.Close()
 
+	easy.Setopt(curl.OPT_URL, url)
+	resp := ""
+	recv := func (buf []byte, userdata interface{}) bool {
+        resp = string(buf)
+        return true
+    }
+
+	easy.Setopt(curl.OPT_WRITEFUNCTION, recvMeth)
+
 	// Get the data
-	resp, err := http.Get(url)
+    if err := easy.Perform(); err != nil {
+        fmt.Printf("ERROR: %v\n", err)
+    }
+
 	if err != nil {
 		return err
 	}
