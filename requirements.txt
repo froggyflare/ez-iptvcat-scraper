@@ -1,4 +1,1 @@
-pycurl
-urllib
-json
-io
+pycurl==7.24.1
