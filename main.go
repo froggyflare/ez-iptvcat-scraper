@@ -112,8 +112,7 @@ func checkNestedUrls(skipOffline bool) {
 				continue
 			}
 
-			stream.Link = newUrl
-			converted_urls[url_lower] = newUrl
+			converted_urls[url_lower] = stream.Link
 
 			processed++
 
