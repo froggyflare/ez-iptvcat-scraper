@@ -112,26 +112,8 @@ func checkNestedUrls(skipOffline bool) {
 				continue
 			}
 
-			const tmpFile = "tmp.m3u8"
-			// Download the file
-			downloadFile(tmpFile, stream.Link)
-
-			// Get the Url
-			newUrl, err := getUrlFromFile(tmpFile, stream.Link)
-			if err != nil {
-				fmt.Println(err)
-				//return
-			}
-			//fmt.Println("newUrl found in link: ", newUrl)
 			stream.Link = newUrl
 			converted_urls[url_lower] = newUrl
-
-			// Add M3du
-			m3du, err := os.ReadFile(tmpFile)
-			if err != nil {
-				fmt.Println(err)
-			}
-			stream.M3DU = string(m3du)
 
 			processed++
 
