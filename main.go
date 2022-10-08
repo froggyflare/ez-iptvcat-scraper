@@ -32,7 +32,6 @@ func downloadFile(filepath string, url string) (err error) {
 	defer out.Close()
 
 	easy.Setopt(curl.OPT_URL, url)
-	resp := []byte()
 	recv := func (buf []byte, userdata interface{}) bool {
         resp = buf
         return true
